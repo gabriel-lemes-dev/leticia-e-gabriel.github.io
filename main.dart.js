@@ -116702,7 +116702,7 @@ $S:679}
 A.Td.prototype={
 N(a){var s=A.Nl(null,B.bA,"Poppins",B.l,null),r=$.as
 if(r==null)r=$.as=A.bR().aD(t.I).b
-return new A.J_(r.y,r.z,"Wedding App",s,!1,null)}}
+return new A.J_(r.y,r.z,"Let\xedcia e Gabriel",s,!1,null)}}
 A.vR.prototype={
 sa7b(a){A.uO(this.gK_(),a,this.a,new A.apm(this,a))},
 saCt(a){A.uO(this.gj8(),a,this.b,new A.apk(this,a))},

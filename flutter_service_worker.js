@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"app_logo.png": "0eb9660c72b596fd5af610f0777067ac",
-"assets/AssetManifest.bin": "bb412789b2d8a419f8a922fd3cbe3a31",
+const RESOURCES = {"assets/AssetManifest.bin": "bb412789b2d8a419f8a922fd3cbe3a31",
 "assets/AssetManifest.bin.json": "a80b24733491ec9dfb8dc1587a55b3ff",
 "assets/AssetManifest.json": "1e61d12c6b8ef4c31b51048a3a14e40c",
 "assets/assets/fonts/PinyonScript-Regular.ttf": "c53b60da0010fe5f8809ab053b2a08e3",
@@ -75,7 +74,7 @@ const RESOURCES = {"app_logo.png": "0eb9660c72b596fd5af610f0777067ac",
 "assets/assets/svgs/ring.svg": "bebbb7b2dfe3e8db3ce18e924a03f539",
 "assets/FontManifest.json": "20762e7588f3a992af9c0791e828bf81",
 "assets/fonts/MaterialIcons-Regular.otf": "acbb2fb216b17a9e64a187cd8525b673",
-"assets/NOTICES": "4f4b8026de239fd77e5e9372500bdae5",
+"assets/NOTICES": "70e5441a27131efa28a602849182c24a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/icons_plus/assets/flags/abkhazia.svg": "508e2b45fb2228a4c7301f24852c05b4",
 "assets/packages/icons_plus/assets/flags/afghanistan.svg": "b85a312c1521071f8d2c175d45833ff4",
@@ -1071,16 +1070,17 @@ const RESOURCES = {"app_logo.png": "0eb9660c72b596fd5af610f0777067ac",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"icons/app_logo.png": "0eb9660c72b596fd5af610f0777067ac",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "abf2674868322d1666823105213ee7d7",
-"/": "abf2674868322d1666823105213ee7d7",
-"main.dart.js": "27585d2acd6b164c926671addc952727",
-"manifest.json": "6ed01cc840dfbb7a5511d8684e320caf",
-"version.json": "2c9d56f62939c301eb2e2b7db91a4f1f"};
+"icons/Logo_APP.png": "0eb9660c72b596fd5af610f0777067ac",
+"index.html": "6d4682d006db05df361b7083ddbb8c68",
+"/": "6d4682d006db05df361b7083ddbb8c68",
+"Logo_APP.png": "0eb9660c72b596fd5af610f0777067ac",
+"main.dart.js": "f4583b554695697056d78b5fc19dac72",
+"manifest.json": "0862aac6fdc8083d0a90bcd02abd8a46",
+"version.json": "e0a08534190cf746ba1ee7c34e031792"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
